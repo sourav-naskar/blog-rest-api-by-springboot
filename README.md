@@ -5,6 +5,7 @@ Build real-time REST APIs with Spring Boot by building a complete Blog App using
 
 
 #REST API’s Features:
+
 -Pagination and Sorting
 
 -Login/Signin and Signup
