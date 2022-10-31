@@ -1,5 +1,5 @@
 # springboot-blog-rest-api
-Real-time REST APIs with Spring Boot by building a complete Blog App using Spring Boot, Spring Security, JWT, MySQL database.
+Real-time REST APIs with Spring Boot by building a complete Blog App using Spring Boot, Spring Security, MySQL database.
 
 
 #REST API’s Features:
